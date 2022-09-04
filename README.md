@@ -83,7 +83,7 @@ Flag{______GeoHash_______}
 ======================================================================================
 https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timeline/uk?unitGroup=us&key=AEFM2DAYDKY239LSM9V52XPRL&contentType=json
 
-
+```
 {
  "queryCost": 1,
  "latitude": 
@@ -309,3 +309,4 @@ https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timel
   "moonphase": 0.29
  }
 }
+```
